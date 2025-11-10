@@ -1,0 +1,14 @@
+# Virtuelle Umgebung
+.venv/
+venv/
+
+# IDE- und Cache-Dateien
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+
+# Streamlit private secrets (nicht ins Repo!)
+.streamlit/secrets.toml
