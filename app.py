@@ -2,16 +2,21 @@ import pandas as pd
 import streamlit as st
 import networkx as nx
 import matplotlib.pyplot as plt
-from functions.create_adjacency import create_adjazenz_list_per_constraint, connect_all_constraints
-from algorithms import backtracking_coloring
+from datetime import date
+
+# --- Eigene Module ---
+from functions.create_adjacency import (
+    create_adjazenz_list_per_constraint,
+    connect_all_constraints,
+)
+from algorithms.backtracking import backtracking_coloring
 from algorithms.dsatur import dsatur
 from algorithms.greedy import greedy_algorithm
-from algorithms import rlf_algorithm
-from algorithms import welsh_powell_algorithm
+from algorithms.rlf import rlf_algorithm
+from algorithms.welsh_powell import welsh_powell_algorithm
 from functions.timetable_algo import create_timetable
-from functions import export_detailed_timetable_to_excel
-from datetime import date
-from functions import get_edges, get_density, get_highest_degree
+from functions.creating_excel import export_detailed_timetable_to_excel
+from functions.analysis import get_edges, get_density, get_highest_degree
 
 st.set_page_config(page_title="Stundenplan-Optimierung", layout="wide")
 
