@@ -1,0 +1,251 @@
+course_id,title,lecturer,group,room,preferred_time
+K1,Künstliche Intelligenz,Prof. Dr. Jürgen Schneider,WI3,R2,Morning
+K2,Betriebssysteme,Prof. Dr. Klaus Birk,INF3,R15,Afternoon
+K3,Supply Chain Management,Prof. Dr. Klaus Birk,WI5,R17,Afternoon
+K4,Wirtschaftsinformatik,Prof. Dr. Klaus Birk,AI5,R6,Afternoon
+K5,Diskrete Mathematik,Prof. Dr. Ernst Deuer,AI3,R8,Afternoon
+K6,Supply Chain Management,Prof. Dr. Jürgen Schneider,WI3,R8,Afternoon
+K7,Diskrete Mathematik,Prof. Dr. Simon Ottler,AI2,R10,Morning
+K8,Web-Engineering,Prof. Dr. Sven Döring,WI1,R18,Morning
+K9,Rechnernetze,Prof. Dr. Thomas Mannchen,INF4,R13,Morning
+K10,User Experience Design,Prof. Dr.-Ing. Florian Leitner-Fischer,INF2,R14,Afternoon
+K11,Kosten- und Leistungsrechnung,Prof. Stefan Luppold,WI3,R14,Morning
+K12,Maschinelles Lernen,Prof. Herbert Moser,WI2,R19,Morning
+K13,Supply Chain Management,Prof. Dr.-Ing. Andreas Judt,WI3,R1,Afternoon
+K14,Projektmanagement,Prof. Dr.-Ing. Andreas Judt,AI4,R14,Morning
+K15,E-Business,Prof. Dr. Stephan Daurer,INF5,R14,Afternoon
+K16,Algorithmen und Datenstrukturen,Prof. Dr.-Ing. Andreas Judt,WI1,R13,Morning
+K17,Diskrete Mathematik,Prof. Dr. Thomas Mannchen,WI5,R18,Morning
+K18,Statistik,Prof. Dr.-Ing. Robert Watty,INF2,R14,Morning
+K19,Diskrete Mathematik,Prof. Dr. Jürgen Brath,INF1,R9,Afternoon
+K20,Kosten- und Leistungsrechnung,Prof. Dr.-Ing. Florian Leitner-Fischer,WI3,R11,Afternoon
+K21,Supply Chain Management,Prof. Dr.-Ing. Andreas Judt,INF5,R14,Afternoon
+K22,Software Engineering,Prof. Dr. Markus Rathgeb,INF1,R18,Morning
+K23,Marketing Grundlagen,Prof. Dr. Stephan Daurer,AI1,R3,Morning
+K24,Supply Chain Management,Prof. Dr.-Ing. Robert Watty,INF4,R7,Morning
+K25,Signalverarbeitung,Prof. Dr. Thomas Mannchen,INF4,R5,Afternoon
+K26,Datenanalyse,Prof. Dr. Konrad Reif,WI5,R7,Afternoon
+K27,User Experience Design,Prof. Dr. Ernst Deuer,AI3,R12,Morning
+K28,Signalverarbeitung,Prof. Dr. Konrad Reif,AI3,R6,Afternoon
+K29,Betriebssysteme,Prof. Dr.-Ing. Robert Watty,AI5,R10,Afternoon
+K30,Statistik,Prof. Dr.-Ing. Florian Leitner-Fischer,INF2,R19,Morning
+K31,Betriebssysteme,Prof. Dr. Joachim Güntzel,AI4,R20,Morning
+K32,Embedded Systems,Prof. Dr. Heinz-Leo Dudek,WI1,R18,Afternoon
+K33,Datenanalyse,Prof. Dr. Bernd Rieger,INF2,R17,Afternoon
+K34,Algorithmen und Datenstrukturen,Prof. Herbert Moser,AI4,R16,Morning
+K35,Lineare Algebra,Prof. Dr. Bernd Rieger,AI1,R15,Morning
+K36,Lineare Algebra,Prof. Dr. Jürgen Brath,AI2,R17,Afternoon
+K37,Signalverarbeitung,Prof. Stefan Luppold,AI3,R16,Afternoon
+K38,Lineare Algebra,Prof. Dr. Ernst Deuer,WI1,R8,Morning
+K39,Web-Engineering,Prof. Dr. Klaus Birk,INF4,R15,Afternoon
+K40,Kosten- und Leistungsrechnung,Prof. Dr.-Ing. Robert Watty,WI3,R11,Morning
+K41,E-Business,Prof. Dr.-Ing. Florian Leitner-Fischer,WI1,R9,Afternoon
+K42,Web-Engineering,Prof. Dr. Ernst Deuer,WI4,R1,Morning
+K43,Software Engineering,Prof. Dr. Stephan Daurer,AI2,R14,Afternoon
+K44,Wirtschaftsinformatik,Prof. Dr. Stephan Daurer,AI2,R16,Afternoon
+K45,Diskrete Mathematik,Prof. Dr.-Ing. Robert Watty,INF2,R10,Morning
+K46,Statistik,Prof. Dr. Stephan Daurer,INF5,R19,Afternoon
+K47,E-Business,Prof. Stefan Luppold,WI4,R12,Afternoon
+K48,Eventmanagement,Prof. Stefan Luppold,WI1,R12,Afternoon
+K49,Web-Engineering,Prof. Dr. Joachim Güntzel,INF5,R8,Morning
+K50,Eventmanagement,Prof. Dr.-Ing. Florian Leitner-Fischer,WI1,R4,Morning
+K51,Maschinelles Lernen,Prof. Dr.-Ing. Florian Leitner-Fischer,AI2,R16,Afternoon
+K52,Eventmanagement,Prof. Dr. Jürgen Schneider,WI5,R10,Morning
+K53,Maschinelles Lernen,Prof. Dr. Joachim Güntzel,INF4,R12,Morning
+K54,Projektmanagement,Prof. Dr.-Ing. Robert Watty,AI2,R18,Morning
+K55,Web-Engineering,Prof. Dr. Heinz-Leo Dudek,INF1,R18,Afternoon
+K56,User Experience Design,Prof. Dr. Thomas Mannchen,AI1,R16,Morning
+K57,Algorithmen und Datenstrukturen,Prof. Dr. Joachim Güntzel,WI3,R16,Afternoon
+K58,Kosten- und Leistungsrechnung,Prof. Dr. Jürgen Brath,INF1,R9,Afternoon
+K59,Betriebssysteme,Prof. Dr. Simon Ottler,WI2,R16,Morning
+K60,Embedded Systems,Prof. Dr. Heinz-Leo Dudek,INF3,R5,Afternoon
+K61,Software Engineering,Prof. Dr. Stephan Daurer,INF2,R18,Afternoon
+K62,Signalverarbeitung,Prof. Dr. Stephan Daurer,AI3,R17,Afternoon
+K63,Diskrete Mathematik,Prof. Dr. Klaus Birk,INF5,R19,Afternoon
+K64,Projektmanagement,Prof. Dr. Heinz-Leo Dudek,WI5,R4,Morning
+K65,Automatisierungstechnik,Prof. Dr.-Ing. Florian Leitner-Fischer,INF5,R3,Morning
+K66,IT-Sicherheit,Prof. Dr. Jürgen Brath,WI4,R3,Morning
+K67,Algorithmen und Datenstrukturen,Prof. Herbert Moser,WI3,R20,Afternoon
+K68,Projektmanagement,Prof. Dr. Heinz-Leo Dudek,INF4,R10,Afternoon
+K69,User Experience Design,Prof. Dr. Klaus Birk,INF2,R8,Afternoon
+K70,Automatisierungstechnik,Prof. Dr.-Ing. Florian Leitner-Fischer,WI2,R4,Morning
+K71,Automatisierungstechnik,Prof. Dr. Thomas Mannchen,AI5,R9,Morning
+K72,Software Engineering,Prof. Dr. Heinz-Leo Dudek,INF3,R10,Afternoon
+K73,Diskrete Mathematik,Prof. Dr. Konrad Reif,WI3,R10,Afternoon
+K74,Web-Engineering,Prof. Dr. Jürgen Schneider,WI4,R16,Afternoon
+K75,Software Engineering,Prof. Dr. Heinz-Leo Dudek,AI5,R14,Afternoon
+K76,Signalverarbeitung,Prof. Dr. Ernst Deuer,INF1,R3,Morning
+K77,Datenanalyse,Prof. Dr.-Ing. Robert Watty,AI3,R9,Morning
+K78,Supply Chain Management,Prof. Dr. Jürgen Brath,WI3,R17,Afternoon
+K79,Web-Engineering,Prof. Dr. Jürgen Brath,WI5,R14,Afternoon
+K80,Software Engineering,Prof. Dr. Markus Rathgeb,WI1,R14,Afternoon
+K81,Kosten- und Leistungsrechnung,Prof. Dr. Konrad Reif,AI4,R6,Afternoon
+K82,Lineare Algebra,Prof. Dr. Markus Rathgeb,INF5,R13,Morning
+K83,Diskrete Mathematik,Prof. Dr. Simon Ottler,WI1,R9,Afternoon
+K84,Betriebssysteme,Prof. Dr.-Ing. Andreas Judt,AI4,R17,Morning
+K85,Datenanalyse,Prof. Stefan Luppold,WI3,R14,Morning
+K86,Maschinelles Lernen,Prof. Dr. Jürgen Schneider,WI1,R20,Afternoon
+K87,Automatisierungstechnik,Prof. Dr. Klaus Birk,AI3,R2,Morning
+K88,Web-Engineering,Prof. Stefan Luppold,INF3,R10,Afternoon
+K89,User Experience Design,Prof. Dr. Markus Rathgeb,INF2,R1,Morning
+K90,User Experience Design,Prof. Dr. Jürgen Brath,INF5,R18,Morning
+K91,Wirtschaftsinformatik,Prof. Herbert Moser,INF2,R8,Morning
+K92,Diskrete Mathematik,Prof. Dr. Konrad Reif,AI1,R5,Afternoon
+K93,User Experience Design,Prof. Dr. Joachim Güntzel,WI4,R9,Afternoon
+K94,E-Business,Prof. Dr. Markus Rathgeb,INF4,R15,Morning
+K95,Statistik,Prof. Dr.-Ing. Florian Leitner-Fischer,AI5,R20,Morning
+K96,Software Engineering,Prof. Dr. Ernst Deuer,AI3,R14,Afternoon
+K97,Finanzierung und Investition,Prof. Dr. Ernst Deuer,AI4,R1,Afternoon
+K98,Eventmanagement,Prof. Dr. Joachim Güntzel,AI4,R19,Afternoon
+K99,Rechnernetze,Prof. Dr. Klaus Birk,WI4,R16,Afternoon
+K100,Kosten- und Leistungsrechnung,Prof. Stefan Luppold,AI3,R18,Afternoon
+K101,Diskrete Mathematik,Prof. Dr. Sven Döring,AI4,R7,Morning
+K102,Embedded Systems,Prof. Dr.-Ing. Andreas Judt,INF4,R14,Morning
+K103,Kosten- und Leistungsrechnung,Prof. Dr. Markus Rathgeb,AI2,R13,Afternoon
+K104,Datenanalyse,Prof. Dr. Thomas Mannchen,WI3,R2,Morning
+K105,Finanzierung und Investition,Prof. Dr. Sven Döring,AI4,R4,Afternoon
+K106,Betriebssysteme,Prof. Dr. Jürgen Schneider,AI5,R15,Morning
+K107,Eventmanagement,Prof. Dr. Thomas Mannchen,WI2,R5,Morning
+K108,E-Business,Prof. Dr. Ernst Deuer,WI1,R20,Afternoon
+K109,Automatisierungstechnik,Prof. Dr. Simon Ottler,AI4,R11,Afternoon
+K110,Kosten- und Leistungsrechnung,Prof. Dr. Markus Rathgeb,AI4,R18,Morning
+K111,Signalverarbeitung,Prof. Dr. Simon Ottler,INF4,R10,Morning
+K112,Eventmanagement,Prof. Dr. Simon Ottler,WI2,R4,Morning
+K113,Diskrete Mathematik,Prof. Dr. Jürgen Brath,AI2,R10,Morning
+K114,Datenbanken,Prof. Dr. Sven Döring,AI3,R2,Afternoon
+K115,Marketing Grundlagen,Prof. Dr. Bernd Rieger,WI2,R5,Morning
+K116,Finanzierung und Investition,Prof. Herbert Moser,WI5,R6,Morning
+K117,Künstliche Intelligenz,Prof. Dr. Simon Ottler,WI5,R13,Morning
+K118,E-Business,Prof. Dr. Thomas Mannchen,INF4,R15,Afternoon
+K119,Diskrete Mathematik,Prof. Dr. Ernst Deuer,AI1,R1,Afternoon
+K120,Projektmanagement,Prof. Stefan Luppold,INF3,R3,Afternoon
+K121,Marketing Grundlagen,Prof. Dr. Joachim Güntzel,AI1,R14,Afternoon
+K122,Diskrete Mathematik,Prof. Dr. Joachim Güntzel,INF4,R13,Afternoon
+K123,Betriebssysteme,Prof. Dr. Stephan Daurer,WI2,R19,Afternoon
+K124,Embedded Systems,Prof. Dr. Joachim Güntzel,AI2,R10,Morning
+K125,Datenanalyse,Prof. Dr.-Ing. Andreas Judt,INF5,R1,Morning
+K126,Signalverarbeitung,Prof. Dr. Markus Rathgeb,AI4,R10,Morning
+K127,Signalverarbeitung,Prof. Dr. Bernd Rieger,INF4,R7,Afternoon
+K128,Datenanalyse,Prof. Dr. Thomas Mannchen,AI1,R4,Morning
+K129,Projektmanagement,Prof. Dr. Klaus Birk,INF1,R19,Afternoon
+K130,Eventmanagement,Prof. Dr. Thomas Mannchen,INF2,R10,Afternoon
+K131,Eventmanagement,Prof. Herbert Moser,INF3,R7,Morning
+K132,Wirtschaftsinformatik,Prof. Dr. Bernd Rieger,WI4,R17,Afternoon
+K133,Künstliche Intelligenz,Prof. Dr. Ernst Deuer,AI5,R16,Afternoon
+K134,Eventmanagement,Prof. Dr. Sven Döring,AI3,R4,Afternoon
+K135,Software Engineering,Prof. Dr. Thomas Mannchen,AI3,R8,Afternoon
+K136,Wirtschaftsinformatik,Prof. Dr. Bernd Rieger,INF2,R13,Morning
+K137,Web-Engineering,Prof. Stefan Luppold,INF2,R15,Afternoon
+K138,Datenanalyse,Prof. Dr. Ernst Deuer,WI5,R13,Afternoon
+K139,Betriebssysteme,Prof. Dr. Stephan Daurer,WI3,R1,Afternoon
+K140,Signalverarbeitung,Prof. Dr. Stephan Daurer,AI1,R3,Afternoon
+K141,User Experience Design,Prof. Dr. Joachim Güntzel,AI1,R14,Morning
+K142,Rechnernetze,Prof. Dr. Heinz-Leo Dudek,INF1,R10,Afternoon
+K143,Betriebssysteme,Prof. Dr. Konrad Reif,INF4,R18,Morning
+K144,Statistik,Prof. Dr. Klaus Birk,WI1,R18,Afternoon
+K145,Embedded Systems,Prof. Dr. Thomas Mannchen,AI5,R14,Morning
+K146,E-Business,Prof. Herbert Moser,INF5,R2,Afternoon
+K147,Maschinelles Lernen,Prof. Dr. Klaus Birk,WI3,R8,Afternoon
+K148,Betriebssysteme,Prof. Dr. Bernd Rieger,WI4,R12,Morning
+K149,Statistik,Prof. Dr. Ernst Deuer,INF4,R4,Afternoon
+K150,Software Engineering,Prof. Dr.-Ing. Florian Leitner-Fischer,AI1,R20,Morning
+K151,Datenbanken,Prof. Dr. Sven Döring,INF4,R5,Morning
+K152,Software Engineering,Prof. Stefan Luppold,INF4,R19,Morning
+K153,IT-Sicherheit,Prof. Dr. Sven Döring,AI3,R5,Morning
+K154,Web-Engineering,Prof. Dr. Thomas Mannchen,INF3,R18,Afternoon
+K155,Künstliche Intelligenz,Prof. Dr. Konrad Reif,AI1,R1,Morning
+K156,Algorithmen und Datenstrukturen,Prof. Dr. Bernd Rieger,AI3,R8,Afternoon
+K157,Algorithmen und Datenstrukturen,Prof. Dr. Jürgen Brath,INF5,R2,Morning
+K158,Eventmanagement,Prof. Herbert Moser,WI4,R4,Morning
+K159,E-Business,Prof. Dr. Klaus Birk,AI3,R12,Morning
+K160,Diskrete Mathematik,Prof. Dr. Jürgen Schneider,INF4,R20,Morning
+K161,Eventmanagement,Prof. Dr. Jürgen Schneider,INF5,R15,Morning
+K162,Datenbanken,Prof. Dr. Markus Rathgeb,AI4,R13,Afternoon
+K163,Datenanalyse,Prof. Dr. Konrad Reif,WI3,R15,Morning
+K164,Software Engineering,Prof. Dr. Sven Döring,WI5,R5,Morning
+K165,Rechnernetze,Prof. Dr. Ernst Deuer,WI5,R19,Afternoon
+K166,Statistik,Prof. Dr. Jürgen Schneider,INF5,R15,Afternoon
+K167,Betriebssysteme,Prof. Dr. Konrad Reif,AI4,R18,Morning
+K168,Lineare Algebra,Prof. Dr. Klaus Birk,AI5,R8,Afternoon
+K169,Kosten- und Leistungsrechnung,Prof. Dr. Klaus Birk,WI2,R14,Morning
+K170,Kosten- und Leistungsrechnung,Prof. Herbert Moser,WI1,R9,Afternoon
+K171,Rechnernetze,Prof. Dr. Markus Rathgeb,INF2,R3,Morning
+K172,Software Engineering,Prof. Herbert Moser,INF2,R12,Morning
+K173,Wirtschaftsinformatik,Prof. Dr. Heinz-Leo Dudek,WI5,R18,Afternoon
+K174,Datenanalyse,Prof. Dr. Konrad Reif,WI2,R12,Afternoon
+K175,Eventmanagement,Prof. Dr. Heinz-Leo Dudek,INF5,R20,Afternoon
+K176,Marketing Grundlagen,Prof. Dr. Konrad Reif,WI5,R17,Morning
+K177,Rechnernetze,Prof. Dr. Markus Rathgeb,INF4,R4,Afternoon
+K178,Wirtschaftsinformatik,Prof. Dr. Bernd Rieger,INF2,R9,Morning
+K179,Lineare Algebra,Prof. Stefan Luppold,AI3,R20,Morning
+K180,Signalverarbeitung,Prof. Dr. Ernst Deuer,INF1,R6,Afternoon
+K181,User Experience Design,Prof. Dr. Joachim Güntzel,AI5,R11,Afternoon
+K182,Algorithmen und Datenstrukturen,Prof. Dr. Jürgen Brath,AI4,R5,Afternoon
+K183,Software Engineering,Prof. Dr. Thomas Mannchen,AI2,R1,Morning
+K184,Eventmanagement,Prof. Dr. Jürgen Schneider,INF4,R13,Afternoon
+K185,Diskrete Mathematik,Prof. Dr. Sven Döring,INF3,R12,Afternoon
+K186,Eventmanagement,Prof. Dr. Sven Döring,AI3,R19,Morning
+K187,Datenbanken,Prof. Dr. Thomas Mannchen,INF3,R20,Morning
+K188,Datenanalyse,Prof. Dr. Simon Ottler,INF5,R15,Afternoon
+K189,E-Business,Prof. Dr. Klaus Birk,WI2,R9,Morning
+K190,Supply Chain Management,Prof. Dr. Jürgen Schneider,INF2,R12,Afternoon
+K191,Betriebssysteme,Prof. Dr. Joachim Güntzel,AI1,R19,Afternoon
+K192,Finanzierung und Investition,Prof. Dr. Joachim Güntzel,INF1,R8,Afternoon
+K193,Signalverarbeitung,Prof. Dr. Heinz-Leo Dudek,INF1,R7,Afternoon
+K194,Maschinelles Lernen,Prof. Dr. Thomas Mannchen,AI3,R9,Afternoon
+K195,Kosten- und Leistungsrechnung,Prof. Dr. Konrad Reif,INF1,R16,Afternoon
+K196,Künstliche Intelligenz,Prof. Dr. Thomas Mannchen,WI2,R18,Morning
+K197,Finanzierung und Investition,Prof. Stefan Luppold,AI4,R12,Morning
+K198,Statistik,Prof. Dr. Heinz-Leo Dudek,WI2,R1,Afternoon
+K199,Software Engineering,Prof. Dr. Sven Döring,WI5,R14,Afternoon
+K200,User Experience Design,Prof. Herbert Moser,INF5,R4,Afternoon
+K201,Algorithmen und Datenstrukturen,Prof. Dr. Sven Döring,INF3,R20,Afternoon
+K202,User Experience Design,Prof. Dr. Bernd Rieger,INF2,R14,Morning
+K203,IT-Sicherheit,Prof. Herbert Moser,WI5,R13,Morning
+K204,Statistik,Prof. Dr. Joachim Güntzel,AI2,R11,Morning
+K205,Kosten- und Leistungsrechnung,Prof. Dr. Jürgen Brath,INF2,R17,Morning
+K206,Finanzierung und Investition,Prof. Dr. Jürgen Schneider,INF4,R12,Afternoon
+K207,Eventmanagement,Prof. Dr. Thomas Mannchen,INF4,R4,Morning
+K208,Web-Engineering,Prof. Dr.-Ing. Florian Leitner-Fischer,INF3,R20,Morning
+K209,Supply Chain Management,Prof. Dr. Simon Ottler,INF3,R16,Afternoon
+K210,Supply Chain Management,Prof. Dr. Klaus Birk,AI1,R19,Afternoon
+K211,Automatisierungstechnik,Prof. Dr. Sven Döring,INF3,R15,Morning
+K212,E-Business,Prof. Dr. Klaus Birk,AI1,R10,Afternoon
+K213,Embedded Systems,Prof. Dr. Heinz-Leo Dudek,WI1,R17,Morning
+K214,Projektmanagement,Prof. Dr. Klaus Birk,WI3,R2,Morning
+K215,Marketing Grundlagen,Prof. Dr. Joachim Güntzel,INF2,R3,Afternoon
+K216,Diskrete Mathematik,Prof. Stefan Luppold,AI3,R2,Afternoon
+K217,Embedded Systems,Prof. Dr.-Ing. Florian Leitner-Fischer,WI1,R20,Afternoon
+K218,Finanzierung und Investition,Prof. Dr. Thomas Mannchen,INF1,R15,Morning
+K219,Kosten- und Leistungsrechnung,Prof. Dr. Simon Ottler,WI4,R6,Morning
+K220,IT-Sicherheit,Prof. Dr. Klaus Birk,WI3,R17,Morning
+K221,Marketing Grundlagen,Prof. Dr. Bernd Rieger,AI5,R10,Afternoon
+K222,Lineare Algebra,Prof. Dr. Sven Döring,AI1,R20,Morning
+K223,Automatisierungstechnik,Prof. Dr. Sven Döring,INF2,R11,Morning
+K224,Wirtschaftsinformatik,Prof. Dr.-Ing. Andreas Judt,INF5,R9,Morning
+K225,Kosten- und Leistungsrechnung,Prof. Dr. Simon Ottler,WI5,R5,Afternoon
+K226,Projektmanagement,Prof. Dr.-Ing. Andreas Judt,INF3,R20,Morning
+K227,Projektmanagement,Prof. Stefan Luppold,WI2,R11,Morning
+K228,Datenanalyse,Prof. Dr. Jürgen Schneider,INF2,R14,Afternoon
+K229,Algorithmen und Datenstrukturen,Prof. Dr. Bernd Rieger,INF5,R6,Morning
+K230,Kosten- und Leistungsrechnung,Prof. Dr. Markus Rathgeb,INF4,R8,Morning
+K231,Rechnernetze,Prof. Dr. Simon Ottler,INF5,R4,Morning
+K232,Datenanalyse,Prof. Dr. Sven Döring,AI5,R20,Morning
+K233,Signalverarbeitung,Prof. Dr.-Ing. Andreas Judt,INF3,R6,Morning
+K234,User Experience Design,Prof. Dr. Jürgen Brath,AI2,R15,Morning
+K235,Lineare Algebra,Prof. Dr. Bernd Rieger,AI1,R8,Afternoon
+K236,Signalverarbeitung,Prof. Dr. Joachim Güntzel,AI3,R15,Morning
+K237,Wirtschaftsinformatik,Prof. Dr. Stephan Daurer,INF5,R16,Morning
+K238,Marketing Grundlagen,Prof. Dr. Klaus Birk,WI3,R10,Afternoon
+K239,Finanzierung und Investition,Prof. Dr. Jürgen Schneider,WI2,R6,Morning
+K240,Signalverarbeitung,Prof. Dr. Thomas Mannchen,AI4,R9,Morning
+K241,Automatisierungstechnik,Prof. Dr. Markus Rathgeb,AI4,R12,Morning
+K242,User Experience Design,Prof. Dr. Jürgen Schneider,AI4,R4,Afternoon
+K243,Software Engineering,Prof. Dr. Jürgen Brath,INF5,R15,Morning
+K244,Lineare Algebra,Prof. Dr. Simon Ottler,AI5,R8,Afternoon
+K245,Marketing Grundlagen,Prof. Dr.-Ing. Robert Watty,WI2,R2,Afternoon
+K246,Finanzierung und Investition,Prof. Dr. Bernd Rieger,INF4,R13,Morning
+K247,Marketing Grundlagen,Prof. Dr. Stephan Daurer,INF1,R11,Morning
+K248,User Experience Design,Prof. Dr. Sven Döring,AI3,R5,Morning
+K249,Datenbanken,Prof. Dr. Joachim Güntzel,AI5,R16,Morning
+K250,Supply Chain Management,Prof. Dr. Markus Rathgeb,WI3,R20,Morning

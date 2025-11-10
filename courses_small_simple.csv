@@ -1,0 +1,21 @@
+course_id,title,lecturer,group,room,preferred_time
+K1,Automatisierungstechnik,Prof. Dr. Konrad Reif,INF1,R3,Morning
+K2,IT-Sicherheit,Prof. Dr. Thomas Mannchen,WI1,R1,Morning
+K3,Embedded Systems,Prof. Herbert Moser,INF1,R1,Morning
+K4,Maschinelles Lernen,Prof. Dr. Stephan Daurer,WI1,R1,Morning
+K5,User Experience Design,Prof. Stefan Luppold,INF2,R2,Afternoon
+K6,Embedded Systems,Prof. Dr. Ernst Deuer,INF1,R2,Afternoon
+K7,Kosten- und Leistungsrechnung,Prof. Dr. Ernst Deuer,INF1,R2,Afternoon
+K8,Betriebssysteme,Prof. Dr. Simon Ottler,INF2,R1,Afternoon
+K9,Marketing Grundlagen,Prof. Dr. Ernst Deuer,INF1,R4,Morning
+K10,Statistik,Prof. Dr. Simon Ottler,WI1,R3,Afternoon
+K11,Embedded Systems,Prof. Dr.-Ing. Florian Leitner-Fischer,WI1,R1,Morning
+K12,Datenanalyse,Prof. Dr. Stephan Daurer,INF2,R1,Morning
+K13,Betriebssysteme,Prof. Dr.-Ing. Andreas Judt,INF2,R4,Afternoon
+K14,Künstliche Intelligenz,Prof. Dr. Bernd Rieger,INF2,R2,Afternoon
+K15,User Experience Design,Prof. Dr. Simon Ottler,WI1,R2,Morning
+K16,Künstliche Intelligenz,Prof. Dr. Klaus Birk,INF2,R3,Morning
+K17,Datenanalyse,Prof. Dr. Sven Döring,INF1,R2,Morning
+K18,Kosten- und Leistungsrechnung,Prof. Dr.-Ing. Andreas Judt,INF2,R1,Morning
+K19,Embedded Systems,Prof. Dr. Sven Döring,INF1,R4,Afternoon
+K20,Automatisierungstechnik,Prof. Dr. Klaus Birk,INF1,R3,Morning
